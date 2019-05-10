@@ -1,2 +1,8 @@
 # IN3020
-Databasesystemer
+My work through the course 'Databasesystemer'.
+
+## Author
+
+* **Pilasilda A.George** 
+
+## License
